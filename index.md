@@ -16,10 +16,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 file：
 笔记
-1
-2
-3
-4
+1:安装
+2:克隆
+3：复制网址
+4：打开软件
 
 ### Markdown
 
