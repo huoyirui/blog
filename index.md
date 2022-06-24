@@ -1,9 +1,23 @@
 ## Welcome to GitHub Pages
 
 这是我的第一个博客
+
+创建流程：
+-创建账户
+-进入账户
+-调整账户
+-选择自己喜欢的主题
+-确定找到网址、发布信息
+
 You can use the [editor on GitHub](https://github.com/huoyirui/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+file：
+笔记
+1
+2
+3
 
 ### Markdown
 
