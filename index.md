@@ -7,7 +7,8 @@
 -进入账户
 -调整账户
 -选择自己喜欢的主题
--确定找到网址、发布信息
+-确定找到网址
+-发布信息
 
 You can use the [editor on GitHub](https://github.com/huoyirui/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,8 +19,6 @@ file：
 1
 2
 3
-4
-5
 
 ### Markdown
 
